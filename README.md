@@ -9,6 +9,9 @@
   - ubuntu 18.04
   - ROS Melodic
 ---
+## 動画
+  - [デモ動画](ここ消して動画のurl入れる)です。
+---
 ## 環境構築
   - ROSのインストール
       - [こちら](https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu18.04_server)を使用させていただきました。
