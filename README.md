@@ -10,6 +10,8 @@
   - ROS Melodic
 ---
 ## 環境構築
+  - ROSのインストール
+      - [こちら](https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu18.04_server)を使用させていただきました。
   - パッケージのクローン(以下を実行してください)
   ```sh
   cd ~/catkin_ws/src  
