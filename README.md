@@ -13,7 +13,7 @@
   - パッケージのクローン(以下を実行してください)
   ```sh
   cd ~/catkin_ws/src  
-  git clone https://github.com/RikuYokoo/draw_line_ros.git  
+  git clone https://github.com/yuuhayato/mypkg.git  
   cd ~/catkin_ws
   catkin_make
   ```
