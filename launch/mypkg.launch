@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="mypkg" name="random1" type="random1.py" required="true"/>
+  <node pkg="mypkg" name="random2" type="random2.py" required="true"/>
+  <node pkg="mypkg" name="kadai2" type="kadai2.py" output="screen" required="true"/>
+</launch>
