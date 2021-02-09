@@ -2,6 +2,7 @@
 ロボットシステム学課題1
 ---
 ## 概要
+  - このリポジトリは上田隆一先生の[第10回講義](https://github.com/ryuichiueda/robosys2020/blob/master/md/ros.md)で作成したコードを改変したものです。  
   - ランダムに2数を作成した。1つ目の[random1.py](https://github.com/yuuhayato/mypkg/blob/main/scripts/random1.py)は1～10の整数、もう1つの[random2.py](https://github.com/yuuhayato/mypkg/blob/main/scripts/random2.py)は0～1までの数字にした。
   加えて、その2数を掛けた値を表示させる[kadai2.py](https://github.com/yuuhayato/mypkg/blob/main/scripts/kadai2.py)を作成した。
 ---
